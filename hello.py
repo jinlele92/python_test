@@ -1,5 +1,4 @@
 from urllib import request
-import *
 from bs4 import BeautifulSoup  # Beautiful Soup是一个可以从HTML或XML文件中提取结构化数据的Python库
 
 # 构造头文件，模拟浏览器访问
